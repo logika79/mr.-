@@ -64,9 +64,11 @@ article {
     flex-direction: column;
     width: 400px;
     height: 700px;
-    border: 1px solid red;
     background-color: gold;
     margin: 20px;
+    border-radius: 10px;
+    padding: 10px;
+
 
 }
 
